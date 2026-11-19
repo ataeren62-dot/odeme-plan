@@ -1,0 +1,5 @@
+# Kişisel veriler depoya girmez
+ios/OdemePlani/web/odeme-yedek.json
+*.json.bak
+.DS_Store
+xcuserdata/
